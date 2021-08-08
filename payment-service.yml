@@ -1,4 +1,5 @@
 spring:
   datasource:
-    username: "root"
-    password: "!@#Yusef2008"
+    url: jdbc:postgresql://localhost:5432/payment-service
+    username: postgres
+    password: postgres
