@@ -3,3 +3,9 @@ spring:
     url: jdbc:postgresql://localhost:5432/sammy
     username: postgres
     password: postgres
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
