@@ -1,3 +1,4 @@
+foo: SALA
 spring:
   datasource:
     username: "root"
