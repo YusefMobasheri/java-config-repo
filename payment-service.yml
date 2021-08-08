@@ -1,4 +1,4 @@
-foo: yusef
+foo: yusefs
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/sammy
