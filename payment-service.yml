@@ -1,4 +1,4 @@
-foo: Hello21
+foo: Hello00021
 spring:
   datasource:
     username: "root"
