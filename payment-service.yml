@@ -1,7 +1,8 @@
+foo: yusef
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/sammy
-    username: postgress
+    username: postgres
     password: postgres
   jpa:
     hibernate:
